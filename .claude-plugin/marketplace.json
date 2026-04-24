@@ -1,0 +1,18 @@
+{
+  "name": "tomtucka-claude-plugins",
+  "owner": {
+    "name": "Tom W",
+    "email": "[email protected]",
+    "url": "https://github.com/tomtucka"
+  },
+  "plugins": [
+    {
+      "name": "core",
+      "source": "./plugins/core",
+      "description": "Core Agents and skills that aid software development workflows",
+      "skills": [
+        "./skills/commit-messages"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "core",
+  "version": "1.10.0",
+  "description": "Core Agents and skills that aid software development workflows",
+  "author": {
+    "name": "Tom W",
+    "email": "[email protected]"
+  },
+  "repository": "https://github.com/tomtucka/claude-plugins",
+  "license": "MIT",
+  "keywords": ["core", "software", "platform", "development", "workflows"]
+}
