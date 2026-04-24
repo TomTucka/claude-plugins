@@ -14,6 +14,12 @@
         "./skills/commit-messages",
         "./skills/writing"
       ]
+    },
+    {
+      "name": "code",
+      "source": "./plugins/code",
+      "description": "Code Agents and skills that aid software development workflows",
+      "skills": []
     }
   ]
 }

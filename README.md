@@ -10,6 +10,7 @@ Custom agents, skills, and commands for software development workflows.
 
 # Install plugins
 /plugin install core@tomtucka-claude-plugins
+/plugin install code@tomtucka-claude-plugins
 
 ```
 
